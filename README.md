@@ -4,7 +4,7 @@
 
 *<p align="center">A curated list of educational resouces to get you started on your <br />journey to become an Ethernaut </p>*
 
-# Categories
+<br /><h1 align="center">Categories</h1>
 
  
 
@@ -12,27 +12,50 @@
 <details>
   <summary><span style="font-size: 1.5em;">🎮 Games</span></summary>
 
+<br />
+
 | **Description** | **Link** |
 | ----------- | ----------- |
 | Ethernauts | https://ethernaut.openzeppelin.com/ |
 | CryptoZombies | https://cryptozombies.io/ |
+| Blockchain security games & challenges | https://github.com/openblocksec/blocksec-ctfs |
+| Damn Vulnerable DeFi | https://www.damnvulnerabledefi.xyz/ |
+| Capture the Ether | https://capturetheether.com/ |
+
+</details>
+
+<details>
+  <summary><span style="font-size: 1.5em;">🎓 Tutorials</span></summary>
+
+<br />
+
+| **Description** | **Link** |
+| ----------- | ----------- |
+| Hardhat | https://hardhat.org/tutorial/ |
+| Let's Do Defi Guides | https://letsdodefi.com/ |
 
 </details>
 
 <details>
   <summary><span style="font-size: 1.5em;">📑 Articles</span></summary>
 
+<br />
+
 | **Description** | **Link** |
 | ----------- | ----------- |
 | The Complete Guide to Full Stack Ethereum Development      | https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 |
 | How to become a DeFi Developer - Kerman Kohli| https://defiweekly.substack.com/p/how-to-become-a-defi-developer |
 | A Guide for Developers Interested in Learning Blockchain Development| https://www.linumlabs.com/articles/a-guide-for-developers-interested-in-learning-blockchain-development |
+| Taking undercollateralized loans for fun and for profit | https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/ |
+| Resources for learning smart contract security | https://immunefi.com/learn/ |
+| Most common smart contract bugs of 2020 | https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac |
 
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em;">📜 Resource</span></summary>
+  <summary><span style="font-size: 1.5em;">📜 Resources</span></summary>
 
+<br />
 
 | **Description** | **Link** |
 | ----------- | ----------- |
@@ -42,11 +65,14 @@
 | Build Guidl | https://buidlguidl.com/ |
 | ETH Foundation Developer Guide | https://ethereum.org/en/developers/ |
 | Learn Solidity in X and Y  | https://learnxinyminutes.com/docs/solidity/ |
+| DeFi Threat Matrix  | https://github.com/freight-trust/defi-threat |
 
 </details>
 
 <details>
   <summary><span style="font-size: 1.5em;">📚 Books</span></summary>
+
+<br />
 
 | **Description** | **Link** |
 | ----------- | ----------- |
@@ -57,6 +83,8 @@
 <details>
   <summary><span style="font-size: 1.5em;">📹 Videos</span></summary>
 
+<br />
+
 | **Description** | **Link** |
 | ----------- | ----------- |
 | Finematics | https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA |
@@ -66,7 +94,9 @@
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em;">📣 Tweet Storm</span></summary>
+  <summary><span style="font-size: 1.5em;">📣 Tweet Storms</span></summary>
+
+<br />
 
 | **Description** | **Link** |
 | ----------- | ----------- |
@@ -75,7 +105,9 @@
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em;">🌐 Substack</span></summary>
+  <summary><span style="font-size: 1.5em;">🌐 Substacks</span></summary>
+
+<br />
 
 | **Description** | **Link** |
 | ----------- | ----------- |
