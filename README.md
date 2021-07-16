@@ -16,7 +16,7 @@
 
 | **Description** | **Link** |
 | ----------- | ----------- |
-| Ethernauts | https://ethernaut.openzeppelin.com/ |
+| Ethernaut CTF | https://ethernaut.openzeppelin.com/ |
 | CryptoZombies | https://cryptozombies.io/ |
 | Blockchain security games & challenges | https://github.com/openblocksec/blocksec-ctfs |
 | Damn Vulnerable DeFi | https://www.damnvulnerabledefi.xyz/ |
@@ -49,6 +49,8 @@
 | Taking undercollateralized loans for fun and for profit | https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/ |
 | Resources for learning smart contract security | https://immunefi.com/learn/ |
 | Most common smart contract bugs of 2020 | https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac |
+| Deconstructing a Solidity Contract —Part I | https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/ |
+| Developer Superpowers with The Graph | https://theethernaut.substack.com/p/developer-superpowers-with-thegraph |
 
 </details>
 
@@ -100,7 +102,7 @@
 
 | **Description** | **Link** |
 | ----------- | ----------- |
-| Ethernauts      | https://ethernaut.openzeppelin.com/       |
+| Solidity Recommendation by Santiago Palladino | https://docs.google.com/spreadsheets/d/1aq9y_dygyST48JmQKd0MYJzZaH8-3eDqWbQbp5pw6Xs/edit?usp=sharing |
 
 </details>
 
