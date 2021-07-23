@@ -92,6 +92,7 @@
 | Finematics | https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA |
 | Defi Weekly | https://www.youtube.com/channel/UCksmBX-Jj_FGYX3EJahKW3Q |
 | Bankless | https://www.youtube.com/c/Bankless/videos |
+| Industry Talks Austin Griffith | https://www.youtube.com/watch?v=TGlklzDmTyc |
 
 </details>
 
