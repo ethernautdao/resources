@@ -115,5 +115,6 @@
 | **Description** | **Link** |
 | ----------- | ----------- |
 | Defi Weekly Substack      | https://defiweekly.substack.com/       |
+| Secureum: Perspectives on security topics in Ethereum | https://secureum.substack.com/ |
 
 </details>
