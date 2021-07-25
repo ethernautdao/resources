@@ -119,7 +119,7 @@
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em;">🌐 Tip & Tricks</span></summary>
+  <summary><span style="font-size: 1.5em;">💡 Tip & Tricks</span></summary>
 
 <br />
 
