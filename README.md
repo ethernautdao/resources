@@ -117,3 +117,15 @@
 | Defi Weekly Substack      | https://defiweekly.substack.com/       |
 
 </details>
+
+<details>
+  <summary><span style="font-size: 1.5em;">📃 Blogs</span></summary>
+
+<br />
+
+| **Description** | **Link** |
+| ----------- | ----------- |
+| Alberto Cuesta Cañada  (Yield Protocol)      | https://albertocuestacanada.medium.com/       |
+|                                              | https://hackernoon.com/u/albertocuestacanada |
+
+</details>
