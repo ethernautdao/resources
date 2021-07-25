@@ -44,6 +44,7 @@
 | **Description** | **Link** |
 | ----------- | ----------- |
 | The Complete Guide to Full Stack Ethereum Development      | https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 |
+| How to Get Into Ethereum/Crypto/Web3 as a Developer  | https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6 |
 | How to become a DeFi Developer - Kerman Kohli| https://defiweekly.substack.com/p/how-to-become-a-defi-developer |
 | A Guide for Developers Interested in Learning Blockchain Development| https://www.linumlabs.com/articles/a-guide-for-developers-interested-in-learning-blockchain-development |
 | Taking undercollateralized loans for fun and for profit | https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/ |
