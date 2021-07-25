@@ -117,3 +117,14 @@
 | Defi Weekly Substack      | https://defiweekly.substack.com/       |
 
 </details>
+
+<details>
+  <summary><span style="font-size: 1.5em;">🌐 Tip & Tricks</span></summary>
+
+<br />
+
+| **From** | **Tip/Trick** | **Description** |
+| --------------- | ----------- | ----------- |
+| Will@Linum Labs |  Loading web3.js into the dev console     | [Use ES6 modules from dev tools console](https://stackoverflow.com/questions/52569996/how-to-use-es6-modules-from-dev-tools-console). That should help you load web3.js. You should be able to interact with MetaMask even without loading web3.js through the window.ethereum api, I think these would be the docs for that: [MetaMask Eth-provider](https://docs.metamask.io/guide/ethereum-providerhtml#table-of-contents) |
+
+</details>
