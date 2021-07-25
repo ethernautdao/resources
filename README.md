@@ -79,6 +79,7 @@
 | **Description** | **Link** |
 | ----------- | ----------- |
 | Mastering Ethereum | https://github.com/ethereumbook/ethereumbook |
+| Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action_code=ASSGB149080119000H&share_location=pdp)
 
 </details>
 
