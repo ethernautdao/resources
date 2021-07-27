@@ -119,3 +119,14 @@
 | Secureum: Perspectives on security topics in Ethereum | https://secureum.substack.com/ |
 
 </details>
+
+<details>
+  <summary><span style="font-size: 1.5em;">🧰 Fun & Useful Tools</span></summary>
+
+<br />
+
+| **Description** | **Link** |
+| ----------- | ----------- |
+| A Windows 95 themed UI for interacting with Ethereum smart contracts.     | https://eth95.dev/  |
+
+</details>
