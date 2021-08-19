@@ -56,6 +56,20 @@
 </details>
 
 <details>
+  <summary><span style="font-size: 1.5em;">⚒️ Dev Tools</span></summary>
+ 
+ <br />
+
+| **Description** | **Link** |
+| ----------- | ----------- |
+| Hardhat | https://hardhat.org/ |
+| Infura | https://infura.io/ |
+| Alchemy | https://www.alchemy.com/ |
+| Tenderly - Smart Contract Monitoring and Alerting | https://tenderly.co/ |
+
+</details>
+
+<details>
   <summary><span style="font-size: 1.5em;">📜 Resources</span></summary>
 
 <br />
@@ -69,6 +83,8 @@
 | ETH Foundation Developer Guide | https://ethereum.org/en/developers/ |
 | Learn Solidity in X and Y  | https://learnxinyminutes.com/docs/solidity/ |
 | DeFi Threat Matrix  | https://github.com/freight-trust/defi-threat |
+| Defi Developer RoadMap | https://github.com/OffcierCia/DeFi-Developer-Road-Map |
+
 
 </details>
 
