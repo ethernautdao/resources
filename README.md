@@ -67,6 +67,8 @@
 | Alchemy | https://www.alchemy.com/ |
 | Tenderly - Smart Contract Monitoring and Alerting | https://tenderly.co/ |
 
+</details>
+
 <details>
   <summary><span style="font-size: 1.5em;">📜 Resources</span></summary>
 
