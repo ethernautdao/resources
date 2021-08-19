@@ -6,9 +6,6 @@
 
 <br /><h1 align="center">Categories</h1>
 
- 
-
-
 <details>
   <summary><span style="font-size: 1.5em;">🎮 Games</span></summary>
 
@@ -57,7 +54,7 @@
 
 <details>
   <summary><span style="font-size: 1.5em;">⚒️ Dev Tools</span></summary>
- 
+
  <br />
 
 | **Description** | **Link** |
@@ -170,3 +167,11 @@
 |                                              | https://hackernoon.com/u/albertocuestacanada |
 
 </details>
+
+<h1 align="center">Contributing</h1>
+
+Everyone is invited to contribute educational resources. We kindly ask to submit your contribution via a pull-request. An EthernautDAO community member will then curate the content and merge it accordingly.
+
+The best place for discussions is our [EthernautDAO Discord server](https://discord.gg/RQ5WYDxUF3). Be welcome to post your educational resources in the #educational-material channel, too!
+
+Follow us on [Twitter](https://twitter.com/ethernautdao) or jump into pairings and proposals at our [Discourse Forum](https://forum.ethernautdao.io/).
