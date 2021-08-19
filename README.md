@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary><span style="font-size: 1.5em;">🧰 Dev Tools</span></summary>
+  <summary><span style="font-size: 1.5em;">⚒️ Dev Tools</span></summary>
  
  <br />
 
