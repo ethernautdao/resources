@@ -81,6 +81,7 @@
 | Learn Solidity in X and Y  | https://learnxinyminutes.com/docs/solidity/ |
 | DeFi Threat Matrix  | https://github.com/freight-trust/defi-threat |
 | Defi Developer RoadMap | https://github.com/OffcierCia/DeFi-Developer-Road-Map |
+| Various Resources by ConseSys | https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md |
 
 
 </details>
@@ -93,7 +94,8 @@
 | **Description** | **Link** |
 | ----------- | ----------- |
 | Mastering Ethereum | https://github.com/ethereumbook/ethereumbook |
-| Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action_code=ASSGB149080119000H&share_location=pdp)
+| Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy | [Audible link](https://www.audible.com/pd/Life-After-Google-Audiobook/B07FCQJJQK?action_code=ASSGB149080119000H&share_location=pdp) |
+| Token Economy Book | https://github.com/sherminvo/TokenEconomyBook/wiki |
 
 </details>
 
