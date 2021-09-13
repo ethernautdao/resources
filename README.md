@@ -1,3 +1,5 @@
+# This repository is deprecated. For an up-to-date list of educational resources, please visit the [EthernautDAO Documentation](https://github.com/ethernautdao/documentation).
+
 ![ETHERNAUT BANNER LOGO](img/banner.jfif)
 
 <h1 align="center">Educational Resources</h1>
